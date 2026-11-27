@@ -1,0 +1,13 @@
+# Maven build files
+target/
+
+# IntelliJ files
+.idea/
+*.iml
+
+# Environment secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
